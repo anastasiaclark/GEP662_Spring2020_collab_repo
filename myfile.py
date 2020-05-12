@@ -11,3 +11,5 @@ print("Math": 8 + 6)
 X = "XYZ" 
 
 print ('Good day')
+
+print('Good night world')
