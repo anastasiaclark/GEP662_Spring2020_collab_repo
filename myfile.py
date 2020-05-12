@@ -9,3 +9,5 @@ a= 'diana'
 print (a)
 print("Math": 8 + 6)
 X = "XYZ" 
+
+print ('Good day')
