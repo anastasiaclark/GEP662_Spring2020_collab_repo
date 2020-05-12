@@ -8,3 +8,4 @@ b=9
 a= 'diana'
 print (a)
 print("Math": 8 + 6)
+X = "XYZ" 
